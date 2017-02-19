@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\bin\Debug\GravityBallCSharp.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\bin\Debug\GravityBallCSharp.exe
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\bin\Debug\GravityBallCSharp.pdb
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\obj\Debug\GravityBallCSharp.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\obj\Debug\GravityBallCSharp.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\obj\Debug\GravityBallCSharp.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\obj\Debug\GravityBallCSharp.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\obj\Debug\GravityBallCSharp.exe
+c:\users\pc\documents\visual studio 2015\Projects\GravityBallCSharp\GravityBallCSharp\obj\Debug\GravityBallCSharp.pdb
