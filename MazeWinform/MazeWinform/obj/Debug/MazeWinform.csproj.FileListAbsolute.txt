@@ -1,9 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\bin\Debug\MazeWinform.exe.config
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\bin\Debug\MazeWinform.exe
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\bin\Debug\MazeWinform.pdb
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.Form1.resources
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.Properties.Resources.resources
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.csproj.GenerateResource.Cache
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.exe
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.pdb
-C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.csprojResolveAssemblyReference.cache
